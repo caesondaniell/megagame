@@ -163,20 +163,22 @@ h3 {
 
     .container {
         grid-template-columns: 1fr;
-        grid-template-rows: 12% 88%;
+        grid-template-rows: 15% 85%;
     }
 
     .sidebar {
     display: grid;
     grid-template-rows: 1fr 1fr;
-    grid-template-columns: 1fr 150px;
+    grid-template-columns: 1fr 160px;
     justify-items: left;
+    align-items: center;
+    row-gap: 0.5em;
     }
 
     h1 {
         grid-row: 1 / 2;
         grid-column: 1 / 2;
-        padding: 0.5em 1em;
+        place-self: center;
     }
 
     .details {
@@ -194,6 +196,5 @@ h3 {
     .nav {
         grid-row: 1 / 2;
         grid-column: 2 / 3;
-        margin: 0 0.5em 0 auto;
     }
 }
