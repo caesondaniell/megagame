@@ -169,7 +169,7 @@ h3 {
     .sidebar {
     display: grid;
     grid-template-rows: 1fr 1fr;
-    grid-template-columns: 1fr 160px;
+    grid-template-columns: 1fr 155px;
     justify-items: left;
     align-items: center;
     row-gap: 0.5em;
