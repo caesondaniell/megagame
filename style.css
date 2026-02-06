@@ -160,7 +160,8 @@ h3 {
     font-family: Audiowide;
     text-transform: uppercase;
     position: sticky;
-    align-text: center;
+    top: 0;
+    text-align: center;
 }
 
 @media (max-width: 800px) {
