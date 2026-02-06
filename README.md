@@ -1,5 +1,5 @@
 # watch-the-skies
-An informational page for Meepleville's Watch the Skies event.
+Informational pages for Meepleville's Watch the Skies event.
 
 
 Photo by <a href="https://unsplash.com/@jonathanmpisfil?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jonathan Martin Pisfil</a> on <a href="https://unsplash.com/photos/a-sign-that-says-the-truth-is-out-there-NodE_jxsjp0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
